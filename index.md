@@ -3,7 +3,6 @@ layout: page
 title:
 ---
 
-## USAGE 
 Hello. To learn about web-scraping in Python, I obviously had to have a resource to scrape. A lot of online services,
 and platforms, strictly forbid this. And so does GitHub under SOME circumstances. These are the policies they have on it. 
 https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies#7-information-usage-restrictions
