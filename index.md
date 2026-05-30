@@ -17,11 +17,4 @@ fragile service, even I'm unsure if it's strong enough to handle ONE person scra
 
 # As far as I've seen, and read, try to keep your requests to under 30 per minute. 
 
-
-## OBJECTIVE 
-MY objective here, is for me to give back to the Python community. As I've learned everything from free resources, I've felt compelled to put something 
-back out into the community that's so open to beginners. Even if I'm early in, and it might not be so perfect. 
-
-YOUR objective here is to find, and scrape specific things from the web page, using your python code, to test, and learn about web scraping. 
-
-Good luck! 
+Check the Targets page for your targets! 
