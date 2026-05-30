@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Usage
 ---
 
 Hello. To learn about web-scraping in Python, I obviously had to have a resource to scrape. A lot of online services,
