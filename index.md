@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RonaldCorp Web Scraping Practice
+title:
 ---
 
 ## USAGE 
