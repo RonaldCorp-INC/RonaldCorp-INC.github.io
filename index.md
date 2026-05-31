@@ -4,8 +4,7 @@ title: Usage
 ---
 
 Hello. To learn about web-scraping in Python, I obviously had to have a resource to scrape. A lot of online services,
-and platforms, strictly forbid this. And so does GitHub under SOME circumstances. These are the policies they have on it. 
-https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies#7-information-usage-restrictions
+and platforms, strictly forbid this. And so does GitHub under SOME circumstances. [These are the policies they have on it](https://shorturl.at/H9iy6). 
 
 This policy states this:
 "You may use information from our Service for the following reasons, regardless of whether the information was scraped, collected through our API, or obtained otherwise:
