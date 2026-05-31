@@ -1,3 +1,5 @@
 title: Ronald.Corp EDU
 description: A repository for learning Python web scraping and responsible data collection
 theme: minima
+minima:
+  skin: dark
