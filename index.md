@@ -13,6 +13,6 @@ Researchers may use public, non-personal information from the Service for resear
 Scraping is NOT unacceptable by the GitHub TOS/usage policies, under the fact that it isn't a private repo, it isn't personal information, and that it's for research
 and educational purpose. But that doesn't mean that you should continuously scrape the repo for 24 hours a day. Please, try to keep it minimal.
 
-<p style="color: red;">TAs far as I've seen, and read, try to keep your requests to under 30 per minute. </p>
+<p style="color: red;">As far as I've seen, and read, try to keep your requests to under 30 per minute. </p>
 
 Check the Targets page for your targets! 
